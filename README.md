@@ -116,7 +116,7 @@ Potential extensions include:
 - Analyzing misclassified samples.
 - Improving experiment reproducibility and documentation.
 
-Disclaimeris
+Disclaimeris:
 This project for educational purposes only. 
 It is not intended for clinical use or as a substitute for professional medical diagnosis.
 
