@@ -117,9 +117,11 @@ Potential extensions include:
 - Improving experiment reproducibility and documentation.
 
 Disclaimeris:
+
 This project for educational purposes only. 
 It is not intended for clinical use or as a substitute for professional medical diagnosis.
 
-Author 
+Author:
+
 Rokaya Mohamed 
 Aspiring researcher interested in Computing, Bioinformatics, and Machine Learning. 
